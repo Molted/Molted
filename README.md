@@ -5,4 +5,4 @@
 ## 👨‍💻
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,nodejs,nestjs,mysql,php,laravel,github,git,postman,vscode&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,nodejs,nestjs,mysql,php,laravel,github,vscode,git,postman&perline=7)](https://skillicons.dev)
