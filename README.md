@@ -4,7 +4,7 @@
 
 * 👨‍💻 I am currently working as a Junior Back-end Developer at a start-up company.
 * 📖 I am currently learning **NodeJs**, **NestJs**, **Typescript**, & **MongoDB**.
-* 😉 My favorite programming language is PHP and its framework, Laravel. But soon, maybe it will be Javascript & Typescript. 👀
+* 😉 My favorite programming language is PHP and its framework, Laravel. But soon, maybe it will be Javascript & Typescript.
 * 🔥 My goal is to become a Full-stack web developer.
 
 #### 💻 Languages and tools that I am familiar with:
