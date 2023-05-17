@@ -1,6 +1,6 @@
 ## 👋 Hello World 🌏
 
-### I am Joshua Concepcion, a passionate developer with a strong interest in establishing innovative projects, acquiring new skills and informations, and collaborating with like-minded individuals to create impactful solutions.
+### I am Joshua Concepcion, a passionate developer with a strong interest in establishing innovative projects, acquiring new skills and informations, and collaborating with like-minded individuals to create effective solutions.
 
 * 👨‍💻 I am currently working as a Junior Back-end Developer at a start-up company.
 * 📖 I am currently learning **Typescript**, **NestJs**, & **MongoDB**.
