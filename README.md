@@ -9,4 +9,4 @@
 
 ## 💻 Languages and tools that I am familiar with:
 
-[![My Skills](https://skillicons.dev/icons?i=php,mysql,postgres,laravel,nestjs,nodejs,github,vscode,supabase,html,css,ts,js,postman,git,mongodb,prisma&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,mysql,postgres,laravel,nestjs,nodejs,github,vscode,supabase,html,css,ts,js,postman,git,mongodb,prisma&perline=13)](https://skillicons.dev)
