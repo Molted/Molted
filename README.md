@@ -4,7 +4,7 @@
 
 * 📅 I have 1 year of experience as a Backend Developer.
 * 👨‍💻 I am currently working as a Back-end Developer at a start-up company.
-* 📖 I am currently learning and also using **Typescript**, **NestJs**, & **PostgreSQL** with **Prisma**.
+* 📖 My current tech stack right now is **Typescript**, **NestJs**, & **PostgreSQL**, with **Prisma**.
 * 😉 My current favorite programming language is TypeScript, whereas, in the past, I used to like PHP.
 * 🎯 My goal right now is to understand how Docker and Kubernetes work.
 
