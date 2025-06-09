@@ -1,8 +1,8 @@
 ## 👋 Hello World 🌏
 
-### I am Joshua Concepcion, a passionate developer interested in establishing innovative projects, acquiring new skills and information, and collaborating with like-minded people to create effective solutions.
+### I am Joshua Concepcion, a passionate developer interested in establishing innovative projects, acquiring new skills and knowledge, and collaborating with like-minded individuals to create effective solutions.
 
-* 📅 I have almost 2 years of experience as a Backend Developer.
+* 📅 I have 2 years of experience as a Backend Developer.
 * 👨‍💻 I work as a Back-end Developer at a start-up company.
 * 📖 My current tech stack is **Typescript**, **NestJs**, & **PostgreSQL**, with **Prisma**.
 * 😉 My current favorite programming language is TypeScript, whereas, in the past, I used to like PHP.
